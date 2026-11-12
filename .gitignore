@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.docx
+*.pdf
+*.zip
+*Researcher_Only*
+participants/
+responses/
